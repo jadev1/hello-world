@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Demonstration of the argparse package
+# very usefull
 
 import argparse
 import logging
